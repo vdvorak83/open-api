@@ -56,7 +56,7 @@
     "graphql-playground-middleware-lambda": "1.4.4",
     "graphql-tools": "^2.24.0",
     "jsonwebtoken": "^8.2.1",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "merge-graphql-schemas": "1.5.1",
     "moment": "^2.20.1",
     "mongoose": "^5.0.12",
