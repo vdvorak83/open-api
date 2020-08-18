@@ -59,7 +59,7 @@
     "lodash": "^4.17.4",
     "merge-graphql-schemas": "1.5.1",
     "moment": "^2.20.1",
-    "mongoose": "^5.0.12",
+    "mongoose": "^5.9.26",
     "serverless": "^1.26.1",
     "serverless-offline": "^3.20.0",
     "serverless-offline-scheduler": "^0.3.3",
