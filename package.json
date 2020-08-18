@@ -67,7 +67,7 @@
     "snyk": "^1.73.0",
     "uuid": "^3.2.1",
     "validator": "^9.4.1",
-    "webpack": "^4.5.0",
+    "webpack": "^4.44.0",
     "webpack-node-externals": "^1.7.2"
   },
   "devDependencies": {
