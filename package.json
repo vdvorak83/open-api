@@ -60,7 +60,7 @@
     "merge-graphql-schemas": "1.5.1",
     "moment": "^2.20.1",
     "mongoose": "^5.0.12",
-    "serverless": "^1.26.1",
+    "serverless": "^1.77.0",
     "serverless-offline": "^3.20.0",
     "serverless-offline-scheduler": "^0.3.3",
     "serverless-webpack": "^5.1.1",
